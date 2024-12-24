@@ -39,4 +39,19 @@ This project is focused on analyzing U.S. presidential elections to identify swi
 	- **Source:** US Inflation Calculator
 	- **URL:** [https://www.usinflationcalculator.com/inflation/	consumer-price-index-and-annual-percent-changes-from-1913-to-2008/#google_vignette](https://www.usinflationcalculator.com/inflation/	consumer-price-index-and-annual-percent-changes-from-1913-to-2008/#google_vignette)
 	- **Description:** Historical Consumer Price Index (CPI) data from 1913 to 2008, including annual percent changes.
-	- **Date Accessed:** December 24, 2024
+
+ - U.S. Census Data (ACS 5-Year Estimates)
+	- **Title:** American Community Survey (ACS) 5-Year Estimates API
+	- **Source:** U.S. Census Bureau
+	- **API Endpoint:** [https://api.census.gov/data/{year}/acs/acs5](https://api.census.gov/data/)
+	- **Description:** Access to detailed economic collected by the American Community Survey for 	various years.
+	- **Usage:** Queries were made to retrieve state and county-level data for demographic analysis.
+
+# Methodology
+
+- Calculate swing score for each US state
+   - Average vote share difference = 20%
+   - Standard Deviation vote share = 20%
+   - Electoral seat share (40%)
+   - Flip frequency (20%)
+
