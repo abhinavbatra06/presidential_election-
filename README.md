@@ -55,6 +55,7 @@ This project is focused on analyzing U.S. presidential elections to identify swi
    		- Standard Deviation vote share = 20%
    		- Electoral seat share (40%)
    		- Flip frequency (20%)
+     	- Identify swing state using the above logic (Top swing score)  
 - Demographic Analysis
   	- Overlay demographic data with voting trends.
 - Bayesian Prediction
