@@ -50,8 +50,15 @@ This project is focused on analyzing U.S. presidential elections to identify swi
 # Methodology
 
 - Calculate swing score for each US state
+	- Logic used
    - Average vote share difference = 20%
    - Standard Deviation vote share = 20%
    - Electoral seat share (40%)
    - Flip frequency (20%)
-
+- Demographic Analysis
+  	- Overlay demographic data with voting trends.
+- Bayesian Prediction
+	- Define priors based on historical data.
+	 - Simulate likelihoods using demographic and voting behavior.
+ 	- Compute posterior probabilities to predict election outcomes.
+	-Perform statistical tests to identify significant demographic variables influencing election outcomes.
