@@ -1,5 +1,5 @@
 # Overview
-This project is focused on analyzing U.S. presidential elections to identify swing states, explore key demographic impacts, and predict election outcomes using a Bayesian framework. By examining historical voting patterns and integrating demographic data, the project aims to provide insights into factors influencing swing state behavior.
+This project is focused on analyzing U.S. presidential elections to identify swing states, explore key demographic impacts. By examining historical voting patterns and integrating demographic data, the project aims to provide insights into factors influencing swing state behavior.
 
 # Objectives
 
@@ -9,8 +9,6 @@ This project is focused on analyzing U.S. presidential elections to identify swi
 - Demographic Impact Analysis
   - For selected swing states, identify key demographic factors (e.g. - urban vs rural).
   - Analyze how these demographics impact voting preferences and outcomes within swing states.
-- Bayesian Prediction Framework
-  - Build a predictive model using Bayesian principles to estimate the probability of a particular party winning in swing states.
 
 # Data Sources
 
@@ -58,11 +56,5 @@ This project is focused on analyzing U.S. presidential elections to identify swi
      	- Identify swing state using the above logic (Top swing score)  
 - Demographic Analysis
   	- Overlay demographic data with voting trends.
-- Bayesian Prediction
-	- Define priors based on historical data.
-	 - Simulate likelihoods using demographic and voting behavior.
- 	- Compute posterior probabilities to predict election outcomes.
-	-Perform statistical tests to identify significant demographic variables influencing election outcomes.
-
 - Tools used
 	- Python (Pandas , Numpy , Matplotlib , Scipy , plotly)  
