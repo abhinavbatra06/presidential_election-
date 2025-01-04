@@ -62,6 +62,7 @@ This project is focused on analyzing U.S. presidential elections to identify swi
 # Results 
 
 Insight:
+-  Swing states identified according to swing score are : ['FLORIDA', 'PENNSYLVANIA', 'OHIO', 'NORTH CAROLINA', 'IOWA', 'MICHIGAN', 'VIRGINIA', 'WISCONSIN', 'GEORGIA', 'ARIZONA']	
 - The semi-urban vote acts as a critical swing demographic in battleground states. When Democrats lose the semi-urban vote, they are more likely to lose the state, as seen in 2016.
 - Urban areas provide a strong base, and rural areas remain a challenge, but semi-urban areas are pivotal for tipping the balance.
 
