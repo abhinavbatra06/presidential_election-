@@ -58,3 +58,9 @@ This project is focused on analyzing U.S. presidential elections to identify swi
   	- Overlay demographic data with voting trends.
 - Tools used
 	- Python (Pandas , Numpy , Matplotlib , Scipy , plotly)  
+
+# Results 
+
+Insight:
+- The semi-urban vote acts as a critical swing demographic in battleground states. When Democrats lose the semi-urban vote, they are more likely to lose the state, as seen in 2016.
+- Urban areas provide a strong base, and rural areas remain a challenge, but semi-urban areas are pivotal for tipping the balance.
