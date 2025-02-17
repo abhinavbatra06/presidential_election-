@@ -10,6 +10,19 @@ This project is focused on analyzing U.S. presidential elections to identify swi
   - For selected swing states, identify key demographic factors (e.g. - urban vs rural).
   - Analyze how these demographics impact voting preferences and outcomes within swing states.
 
+ 
+# Results 
+
+Insight:
+-  Swing states identified according to swing score are : ['FLORIDA', 'PENNSYLVANIA', 'OHIO', 'NORTH CAROLINA', 'IOWA', 'MICHIGAN', 'VIRGINIA', 'WISCONSIN', 'GEORGIA', 'ARIZONA']	
+- The semi-urban vote acts as a critical swing demographic in battleground states. When Democrats lose the semi-urban vote, they are more likely to lose the state, as seen in 2016.
+- Urban areas provide a strong base, and rural areas remain a challenge, but semi-urban areas are pivotal for tipping the balance.
+
+Visualization:
+- [Rural vs Urban divide](https://drive.google.com/open?id=1R3UCpuMa_2zGJKHZnu3Hom87rpSMe2EM&usp=drive_fs)
+- [Swing states over the years](https://drive.google.com/open?id=1LnQBNN1BYKch0-UcHW7MFUq-tAgd7PqW&usp=drive_fs)
+
+
 # Data Sources
 
 - U.S. President 1976–2020
@@ -59,13 +72,3 @@ This project is focused on analyzing U.S. presidential elections to identify swi
 - Tools used
 	- Python (Pandas , Numpy , Matplotlib , Scipy , plotly)  
 
-# Results 
-
-Insight:
--  Swing states identified according to swing score are : ['FLORIDA', 'PENNSYLVANIA', 'OHIO', 'NORTH CAROLINA', 'IOWA', 'MICHIGAN', 'VIRGINIA', 'WISCONSIN', 'GEORGIA', 'ARIZONA']	
-- The semi-urban vote acts as a critical swing demographic in battleground states. When Democrats lose the semi-urban vote, they are more likely to lose the state, as seen in 2016.
-- Urban areas provide a strong base, and rural areas remain a challenge, but semi-urban areas are pivotal for tipping the balance.
-
-Visualization:
-- [Rural vs Urban divide](https://drive.google.com/open?id=1R3UCpuMa_2zGJKHZnu3Hom87rpSMe2EM&usp=drive_fs)
-- [Swing states over the years](https://drive.google.com/open?id=1LnQBNN1BYKch0-UcHW7MFUq-tAgd7PqW&usp=drive_fs)
