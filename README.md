@@ -19,7 +19,7 @@ Insight:
 - Urban areas provide a strong base, and rural areas remain a challenge, but semi-urban areas are pivotal for tipping the balance.
 
 Visualization:
-- [Rural vs Urban divide](https://drive.google.com/open?id=1R3UCpuMa_2zGJKHZnu3Hom87rpSMe2EM&usp=drive_fs)
+- [Rural vs Urban divide](https://drive.google.com/open?id=1pjdTjoKziAII6fopudIx_2s7q5MqtwWM&usp=drive_fs)
 - [Swing states over the years](https://drive.google.com/open?id=1LnQBNN1BYKch0-UcHW7MFUq-tAgd7PqW&usp=drive_fs)
 
 
