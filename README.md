@@ -66,6 +66,7 @@ Visualization:
    		- Standard Deviation vote share = 20%
    		- Electoral seat share (40%)
    		- Flip frequency (20%)
+     		- Sort in order of most recenty flipped (Recency Bias) 	
      	- Identify swing state using the above logic (Top swing score)  
 - Demographic Analysis
   	- Overlay demographic data with voting trends.
