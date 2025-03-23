@@ -19,7 +19,7 @@ Insight:
 - Urban areas provide a strong base, and rural areas remain a challenge, but semi-urban areas are pivotal for tipping the balance.
 
 Visualization:
-- [Interactive swing score calculator]
+- [Interactive swing score calculator](https://aizqnvqgc8sdtgpmdg22yv.streamlit.app/)
 - [Rural vs Urban divide](https://drive.google.com/open?id=11Ek34wMYJop7fVSabn00TSn5zb7x_oi0&usp=drive_fs)
 - [Swing states over the years](https://drive.google.com/open?id=1LnQBNN1BYKch0-UcHW7MFUq-tAgd7PqW&usp=drive_fs)
 
