@@ -74,3 +74,8 @@ Visualization:
 - Tools used
 	- Python (Pandas , Numpy , Matplotlib , Scipy , plotly)  
 
+
+# Live App
+[You can access the live app here](https://aizqnvqgc8sdtgpmdg22yv.streamlit.app/)
+
+-
