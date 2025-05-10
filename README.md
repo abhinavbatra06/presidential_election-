@@ -9,6 +9,12 @@ This project is focused on analyzing U.S. presidential elections to identify swi
 - Demographic Impact Analysis
   - For selected swing states, identify key demographic factors (e.g. - urban vs rural).
   - Analyze how these demographics impact voting preferences and outcomes within swing states.
+ 
+# Live App
+[You can access the live app here](https://aizqnvqgc8sdtgpmdg22yv.streamlit.app/)
+
+![Dashboard Screenshot](https://github.com/abhinavbatra06/presidential_election-/blob/main/screenshot_1.jpg?raw=true)
+![Analysis Screenshot](https://github.com/abhinavbatra06/presidential_election-/blob/main/screenshot_2.jpg?raw=true)
 
  
 # Results 
@@ -75,7 +81,6 @@ Visualization:
 	- Python (Pandas , Numpy , Matplotlib , Scipy , plotly)  
 
 
-# Live App
-[You can access the live app here](https://aizqnvqgc8sdtgpmdg22yv.streamlit.app/)
+
 
 -
